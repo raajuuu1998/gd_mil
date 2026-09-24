@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-3DA639.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-under%20review-orange.svg)](https://github.com/raajuuu1998/gd-mil-bcr)
 
-![GD-MIL pipeline](assets/pipeline_bcr.png)
+![GD-MIL pipeline](assets/gdmil.png)
 
 *Tiles are embedded by a **frozen** foundation model and aggregated by gated-attention MIL into a slide representation `z`. During training, a gradient-reversal grade adversary **adversarially discourages** Gleason-grade information from `z`, steering the encoder toward prognostic morphology that is **complementary** to grade. The grade-disentangled imaging risk is then late-fused with clinical variables to produce the final BCR risk score.*
 
